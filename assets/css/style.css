@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.div{
+    
+    width: 85%;
+    background-color: orange;
+}
+
+img{
+    text-align: center;
+    width: 65%;
+    margin: 7%;     
+    padding: 7%;
+    background-color: greenyellow;
+    border: 45px solid yellow;
+
+}
